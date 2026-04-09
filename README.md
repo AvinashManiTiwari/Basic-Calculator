@@ -7,7 +7,7 @@ It performs standard arithmetic operations with a modern **Glassmorphism UI desi
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/calculator-app/
+👉 https://AvinashManiTiwari.github.io/calculator-app/
 
 ---
 
@@ -65,7 +65,7 @@ Deployed using GitHub Pages
 
 ## 🙌 Author
 
-**Avinashmani Tiwari**
+**Avinash Mani Tripathi**
 B.Tech CSE Student
 
 ---
