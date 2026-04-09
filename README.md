@@ -7,7 +7,7 @@ It performs standard arithmetic operations with a modern **Glassmorphism UI desi
 
 ## 🚀 Live Demo
 
-👉 https://AvinashManiTiwari.github.io/Basic-Calculator-app/
+👉 https://AvinashManiTiwari.github.io/Basic-Calculator/
 
 ---
 
